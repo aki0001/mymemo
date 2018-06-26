@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"BoundKeys",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"Diffy",
+		"Goto-CSS-Declaration",
+		"IMESupport",
+		"Japanize",
+		"Local History",
+		"Material Theme",
+		"Package Control",
+		"RecentActiveFiles",
+		"SQLPlus",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"TrailingSpaces",
+		"View In Browser"
+	]
+}
