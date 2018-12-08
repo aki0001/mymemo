@@ -8,22 +8,19 @@
 		"Alignment",
 		"All Autocomplete",
 		"BoundKeys",
+		"Boxy Theme",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"ColorPicker",
 		"ConvertToUTF8",
-		"Diffy",
 		"Goto-CSS-Declaration",
 		"IMESupport",
-		"Japanize",
 		"Local History",
-		"Material Theme",
 		"Package Control",
 		"RecentActiveFiles",
-		"SQLPlus",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"TrailingSpaces",
-		"View In Browser"
+		"Vintageous"
 	]
 }
